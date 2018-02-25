@@ -10,7 +10,7 @@ Cloud9 requires an Amazon AWS account. The service is free, but you do need a va
 
 ### But I don't have a Credit Card!
 
-If you don't have a credit card, or would rather not create an AWS account, you can simply run [this installer](https://rubyinstaller.org) if you're on Windows, or follow [these instructions](https://gorails.com/setup/osx/10.13-high-sierra) if you're on a Mac. I won't be going over installation during the workshop, so make sure you have a working Rails environment if you don't plan on using Cloud9.
+If you don't have a credit card, or would rather not create an AWS account, you can simply follow [these instructions](http://blog.teamtreehouse.com/installing-rails-5-windows) if you're on Windows, or follow [these instructions](https://gorails.com/setup/osx/10.13-high-sierra) if you're on a Mac. I won't be going over installation during the workshop, so make sure you have a working Rails environment if you don't plan on using Cloud9.
 
 ### Configuring your Cloud9 Environment
 
